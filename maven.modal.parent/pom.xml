@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
+		../maven.mc-modal.parent
 	</modules>
 </project>
