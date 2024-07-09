@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.fastcube.tibco.Its.APP6.modal</groupId>
 	<artifactId>maven.modal.promote</artifactId>
-	<version>1.0.0</version>
+	<version>${projectVersion}</version>
 	<packaging>bwpromote</packaging>
 
 	<parent>
@@ -22,7 +22,7 @@
 	 <dependency> 
 		<groupId>com.fastcube.tibco.Its.APP6.modal</groupId>
 		<artifactId>bw.mc-modal.application</artifactId>
-		<version>1.0.0</version>
+		<version>${projectVersion}</version>
 		<type>ear</type>
 	 </dependency>
 	</dependencies>
