@@ -22,7 +22,7 @@
 	 <dependency> 
 		<groupId>com.fastcube.tibco.Its.APP6.modal</groupId>
 		<artifactId>bw.mc-modal.application</artifactId>
-		<version>${project.version}</version>
+		<version>1.0.0</version>
 		<type>ear</type>
 	 </dependency>
 	</dependencies>
